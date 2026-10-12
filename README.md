@@ -39,8 +39,8 @@ Running the notebook also creates `results/` (CSV tables, `summary.json`) and `f
    ```
 3. **Get the notebook:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
-   cd <REPO_FOLDER>
+   git clone https://github.com/Muneeb-Ansari-28/DLP-A2.git
+   cd DLP-A2
    ```
 4. **Run:** open `23f-0608-dlp-a2.ipynb` in Jupyter / Colab / VS Code and choose **Kernel → Restart & Run All**.
    - CIFAR-10 is downloaded automatically to `./data` on first run (about 170 MB).
